@@ -10,6 +10,10 @@ layout = "indexpage"
 
 * https://nerdfallmedizin.blog
 
+### Klinik
+
+* Standard Operating Procedures für die Notaufnahme: https://sop-notaufnahme.de
+
 ### Biochemie
 
 * http://biochemical-pathways.com
