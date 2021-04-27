@@ -21,3 +21,7 @@ layout = "indexpage"
 ### Biochemie
 
 * http://biochemical-pathways.com
+
+### Physik
+
+* Interactive course on the functioning and physics of MRI (Magnetic Resonance Imaging): https://www.imaios.com/en/e-Courses/e-MRI
