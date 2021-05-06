@@ -4,6 +4,8 @@ layout = "indexpage"
 
 # med.schu.im
 
+Meine kleine wachsende #FOAMed Liste.
+
 ## Links
 
 ### Blogs
