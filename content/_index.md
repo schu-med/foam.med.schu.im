@@ -12,6 +12,10 @@ Meine kleine wachsende #FOAMed Liste.
 
 * https://nerdfallmedizin.blog
 
+### Podcasts
+
+* https://psychcast.de
+
 ### Klinik
 
 * Standard Operating Procedures für die Notaufnahme: https://sop-notaufnahme.de
