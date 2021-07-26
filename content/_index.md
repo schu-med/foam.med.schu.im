@@ -32,6 +32,10 @@ Meine kleine wachsende #FOAMed Liste.
 
 * http://biochemical-pathways.com
 
+### Misc
+
+* Armando Hasudungan - Biology and Medicine videos: https://armandoh.org
+
 ### Physik
 
 * Interactive course on the functioning and physics of MRI (Magnetic Resonance Imaging): https://www.imaios.com/en/e-Courses/e-MRI
