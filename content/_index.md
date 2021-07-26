@@ -20,6 +20,10 @@ Meine kleine wachsende #FOAMed Liste.
 
 * Standard Operating Procedures für die Notaufnahme: https://sop-notaufnahme.de
 
+### Anatomie
+
+* Humanembryologie - Online Embryologiekurs für Studierende der Medizin: http://www.embryology.ch/indexde.html
+
 ### Histologie
 
 * Mikroskopische Anatomie und Histopathologie Uni Halle-Wittenberg: http://histohal.uni-halle.de
