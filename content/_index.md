@@ -27,6 +27,7 @@ Meine kleine wachsende #FOAMed Liste.
 ### Histologie
 
 * Mikroskopische Anatomie und Histopathologie Uni Halle-Wittenberg: http://histohal.uni-halle.de
+* E-Learning des Instituts für Pathologie der Universität Heidelberg (el-IPH): https://eliph.klinikum.uni-heidelberg.de/
 
 ### Biochemie
 
@@ -36,6 +37,7 @@ Meine kleine wachsende #FOAMed Liste.
 ### Misc
 
 * Armando Hasudungan - Biology and Medicine videos: https://armandoh.org
+* Ninja Nerd - Online Learning Platform for Medicine and Science: https://www.ninjanerd.org
 
 ### Physik
 
