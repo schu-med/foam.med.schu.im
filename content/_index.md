@@ -11,6 +11,7 @@ Meine kleine wachsende #FOAMed Liste.
 ### Blogs
 
 * https://nerdfallmedizin.blog
+* News Papers - Neue interessante wissenschaftliche Publikationen aus der Notfallmedizin: https://news-papers.eu
 
 ### Podcasts
 
@@ -27,7 +28,7 @@ Meine kleine wachsende #FOAMed Liste.
 ### Histologie
 
 * Mikroskopische Anatomie und Histopathologie Uni Halle-Wittenberg: http://histohal.uni-halle.de
-* E-Learning des Instituts für Pathologie der Universität Heidelberg (el-IPH): https://eliph.klinikum.uni-heidelberg.de/
+* E-Learning des Instituts für Pathologie der Universität Heidelberg (el-IPH): https://eliph.klinikum.uni-heidelberg.de
 
 ### Biochemie
 
