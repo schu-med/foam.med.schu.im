@@ -12,9 +12,11 @@ Meine kleine wachsende #FOAMed Liste.
 
 * https://nerdfallmedizin.blog
 * News Papers - Neue interessante wissenschaftliche Publikationen aus der Notfallmedizin: https://news-papers.eu
+* https://pin-up-docs.de - Perioperative-, Intensiv- und Notfallmedizin
 
 ### Podcasts
 
+* https://www.abhoeren-podcast.de
 * https://psychcast.de
 
 ### Klinik
