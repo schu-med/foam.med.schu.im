@@ -1,6 +1,6 @@
-baseURL = "https://med.schu.im"
+baseURL = "https://foam.med.schu.im"
 languageCode = "de"
-title = "med.schu.im"
+title = "foam.med.schu.im"
 
 theme = "about-blank"
 
