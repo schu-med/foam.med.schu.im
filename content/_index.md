@@ -2,7 +2,7 @@
 layout = "indexpage"
 +++
 
-# med.schu.im
+# foam.med.schu.im
 
 Meine kleine wachsende #FOAMed Liste.
 
