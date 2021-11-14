@@ -18,6 +18,7 @@ Meine kleine wachsende #FOAMed Liste.
 
 * https://www.abhoeren-podcast.de
 * https://psychcast.de
+* Young Urban Anesthesiologists (YUAN) - https://ains.umg.eu/studium-lehre/podcast/
 
 ### Klinik
 
