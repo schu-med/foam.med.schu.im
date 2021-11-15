@@ -10,14 +10,14 @@ Meine kleine wachsende #FOAMed Liste.
 
 ### Blogs
 
-* https://nerdfallmedizin.blog
+* Nerdfallmedizin - https://nerdfallmedizin.blog
 * News Papers - Neue interessante wissenschaftliche Publikationen aus der Notfallmedizin: https://news-papers.eu
-* https://pin-up-docs.de - Perioperative-, Intensiv- und Notfallmedizin
+* pin-up-docs - don't panic - Perioperative-, Intensiv- und Notfallmedizin: https://pin-up-docs.de
 
 ### Podcasts
 
-* https://www.abhoeren-podcast.de
-* https://psychcast.de
+* Abhören: https://www.abhoeren-podcast.de
+* PsychCast: https://psychcast.de
 * Young Urban Anesthesiologists (YUAN) - https://ains.umg.eu/studium-lehre/podcast/
 
 ### Klinik
@@ -30,13 +30,13 @@ Meine kleine wachsende #FOAMed Liste.
 
 ### Histologie
 
-* Mikroskopische Anatomie und Histopathologie Uni Halle-Wittenberg: http://histohal.uni-halle.de
+* Mikroskopische Anatomie und Histopathologie Universität Halle-Wittenberg: http://histohal.uni-halle.de
 * E-Learning des Instituts für Pathologie der Universität Heidelberg (el-IPH): https://eliph.klinikum.uni-heidelberg.de
 
 ### Biochemie
 
-* http://biochemical-pathways.com
-* https://www.masterorganicchemistry.com
+* Biochemical Pathways: http://biochemical-pathways.com
+* Master Organic Chemistry: https://www.masterorganicchemistry.com
 
 ### Misc
 
