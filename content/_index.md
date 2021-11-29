@@ -6,8 +6,6 @@ layout = "indexpage"
 
 Meine kleine wachsende #FOAMed Liste.
 
-## Links
-
 ### Blogs
 
 * Nerdfallmedizin - https://nerdfallmedizin.blog
