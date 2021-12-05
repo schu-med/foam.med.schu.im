@@ -8,7 +8,7 @@ Meine kleine wachsende #FOAMed Liste.
 
 #### Blogs
 
-* Nerdfallmedizin - https://nerdfallmedizin.blog
+* Nerdfallmedizin - https://nerdfallmedizin.blog (u.a. mit Fortbildungs-Kalender: https://nerdfallmedizin.blog/kalender/)
 * News Papers - Neue interessante wissenschaftliche Publikationen aus der Notfallmedizin: https://news-papers.eu
 * pin-up-docs - don't panic - Perioperative-, Intensiv- und Notfallmedizin: https://pin-up-docs.de
 
