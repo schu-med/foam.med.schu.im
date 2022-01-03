@@ -21,6 +21,7 @@ Meine kleine wachsende #FOAMed Liste.
 #### Klinik
 
 * Standard Operating Procedures für die Notaufnahme: https://sop-notaufnahme.de
+* Emergency Procedures - Liste von notfallmedizinischen Prozeduren mit Text- und Videoerklärung: https://emergencyprocedures.medapps.com.au
 * ToxDocs - Alles rund um Intoxikationen: http://toxdocs.de
 
 #### Radiologie
