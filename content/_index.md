@@ -4,8 +4,6 @@ layout = "indexpage"
 
 ## foam.med.schu.im
 
-Meine kleine wachsende #FOAMed Liste.
-
 #### Blogs
 
 * Nerdfallmedizin - https://nerdfallmedizin.blog (u.a. mit Fortbildungs-Kalender: https://nerdfallmedizin.blog/kalender/)
@@ -21,6 +19,7 @@ Meine kleine wachsende #FOAMed Liste.
 #### Klinik
 
 * Standard Operating Procedures für die Notaufnahme: https://sop-notaufnahme.de
+* Leila - die Leitlinien-App für medizinisches Fachwissen: https://www.leila.de
 * Emergency Procedures - Liste von notfallmedizinischen Prozeduren mit Text- und Videoerklärung: https://emergencyprocedures.medapps.com.au
 * ToxDocs - Alles rund um Intoxikationen: http://toxdocs.de
 
