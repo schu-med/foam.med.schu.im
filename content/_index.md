@@ -34,7 +34,7 @@ layout = "indexpage"
 
 #### Anatomie
 
-* Humanembryologie - Online Embryologiekurs für Studierende der Medizin: http://www.embryology.ch/indexde.html
+* Human Embryologie - Online Embryologiekurs für Studierende der Medizin: http://www.embryology.ch/indexde.html
 
 #### Histologie
 
