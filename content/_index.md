@@ -27,6 +27,10 @@ layout = "indexpage"
 
 * MIT: Machine Learning for Healthcare, Spring 2019 - https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j
 
+#### Pharmakologie
+
+* pharmaka.med.schu.im - Eine Übersicht gängiger Pharmaka: https://pharmaka.med.schu.im
+
 #### Radiologie
 
 * Radiopaedia - https://radiopaedia.org
