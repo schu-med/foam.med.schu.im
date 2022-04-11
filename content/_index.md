@@ -16,7 +16,7 @@ layout = "indexpage"
 * PsychCast: https://psychcast.de
 * Young Urban Anesthesiologists (YUAN) - https://ains.umg.eu/studium-lehre/podcast/
 
-#### Nofallmedizin
+#### Notfallmedizin
 
 * Medizinische Handlungsanweisungen der Berliner Notfallrettung - https://www.berliner-feuerwehr.de/fileadmin/bfw/dokumente/Publikationen/Rettungsdienst/Medizinische_Handlungsanweisungen_Berliner_Notfallrettung__06_2021.pdf
 
