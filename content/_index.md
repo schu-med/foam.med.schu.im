@@ -2,7 +2,7 @@
 layout = "indexpage"
 +++
 
-## foam.med.schu.im
+### foam.med.schu.im
 
 #### Blogs
 
