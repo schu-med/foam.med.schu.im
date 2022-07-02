@@ -10,6 +10,8 @@ layout = "indexpage"
 * News Papers - Neue interessante wissenschaftliche Publikationen aus der Notfallmedizin: https://news-papers.eu
 * pin-up-docs - don't panic - Perioperative-, Intensiv- und Notfallmedizin: https://pin-up-docs.de
 * #dasFOAM - https://dasfoam.org
+* Rational Evidence Based Evaluation of Literature in Emergency Medicine - https://rebelem.com
+* EMS MEd - The EMS MEd’s blog is to further the practice of prehospital medicine by disseminating open access, up-to-date and high quality educational content: https://www.naemsp-blog.com
 
 #### Podcasts
 
