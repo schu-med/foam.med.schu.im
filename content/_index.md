@@ -30,6 +30,10 @@ layout = "indexpage"
 * Emergency Procedures - Liste von notfallmedizinischen Prozeduren mit Text- und Videoerklärung: https://emergencyprocedures.medapps.com.au
 * ToxDocs - Alles rund um Intoxikationen: http://toxdocs.de
 
+#### Sonografie
+
+* Core Ultrasound - 5 Minute Sono: https://www.coreultrasound.com/5ms/
+
 #### Medizinische Informatik
 
 * MIT: Machine Learning for Healthcare, Spring 2019 - https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j
