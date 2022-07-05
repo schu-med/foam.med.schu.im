@@ -64,7 +64,7 @@ layout = "indexpage"
 
 #### Misc
 
-* Uni Bern: Lernprogramme für Medizinstudierende - https://elearning.medizin.unibe.ch
+* Uni Bern - Lernprogramme für Medizinstudierende: https://elearning.medizin.unibe.ch
 * Armando Hasudungan - Biology and Medicine videos: https://armandoh.org
 * Ninja Nerd - Online Learning Platform for Medicine and Science: https://www.ninjanerd.org
 
