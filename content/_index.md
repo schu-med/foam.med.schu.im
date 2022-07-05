@@ -48,6 +48,12 @@ layout = "indexpage"
 * Radiopaedia - https://radiopaedia.org
 * Radiology Assistant - https://radiologyassistant.nl
 
+#### Misc
+
+* Uni Bern - Lernprogramme für Medizinstudierende: https://elearning.medizin.unibe.ch
+* Armando Hasudungan - Biology and Medicine videos: https://armandoh.org
+* Ninja Nerd - Online Learning Platform for Medicine and Science: https://www.ninjanerd.org
+
 #### Anatomie
 
 * Human Embryologie - Online Embryologiekurs für Studierende der Medizin: http://www.embryology.ch/indexde.html
@@ -61,12 +67,6 @@ layout = "indexpage"
 
 * Biochemical Pathways: http://biochemical-pathways.com
 * Master Organic Chemistry: https://www.masterorganicchemistry.com
-
-#### Misc
-
-* Uni Bern - Lernprogramme für Medizinstudierende: https://elearning.medizin.unibe.ch
-* Armando Hasudungan - Biology and Medicine videos: https://armandoh.org
-* Ninja Nerd - Online Learning Platform for Medicine and Science: https://www.ninjanerd.org
 
 #### Physik
 
