@@ -34,7 +34,13 @@ layout = "indexpage"
 
 * Core Ultrasound - 5 Minute Sono: https://www.coreultrasound.com/5ms/
 
-#### Medizinische Informatik
+#### OpenCourseWare
+
+##### Biologie
+
+* MIT: Introductory Biology, Fall 2018 - https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/
+
+##### Medizinische Informatik
 
 * MIT: Machine Learning for Healthcare, Spring 2019 - https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j
 
