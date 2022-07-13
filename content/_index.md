@@ -33,6 +33,7 @@ layout = "indexpage"
 #### Sonografie
 
 * Core Ultrasound - 5 Minute Sono: https://www.coreultrasound.com/5ms/
+* Internistischer Sonographieatlas, Albertinen-Krankenhaus Hamburg: https://sonographiebilder.de/sonographie-atlas
 
 #### OpenCourseWare
 
