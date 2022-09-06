@@ -29,6 +29,7 @@ layout = "indexpage"
 * Leila - die Leitlinien-App für medizinisches Fachwissen: https://www.leila.de
 * Emergency Procedures - Liste von notfallmedizinischen Prozeduren mit Text- und Videoerklärung: https://emergencyprocedures.medapps.com.au
 * ToxDocs - Alles rund um Intoxikationen: http://toxdocs.de
+* MDCalc "is a site for medical professionals, to help us do calculations, process algorithms and scores, and assess risk": https://www.mdcalc.com
 
 #### Sonografie
 
