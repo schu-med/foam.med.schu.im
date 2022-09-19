@@ -12,12 +12,20 @@ layout = "indexpage"
 * dasFOAM - https://dasfoam.org
 * Rational Evidence Based Evaluation of Literature in Emergency Medicine - https://rebelem.com
 * EMS MEd - The EMS MEd’s blog is to further the practice of prehospital medicine by disseminating open access, up-to-date and high quality educational content: https://www.naemsp-blog.com
+* EMCrit Project: https://emcrit.org
+* Life in the Fastlane (LITFL): https://litfl.com
+* St. Emlyn's: https://www.stemlynsblog.org
+* The Bottom Line: https://www.thebottomline.org.uk
 
 #### Podcasts
 
+* Young Urban Anesthesiologists (YUAN): https://ains.umg.eu/studium-lehre/podcast/
+* Maryland Critical Care Project: https://podcasts.apple.com/us/podcast/maryland-cc-project/id1007401538
+* FOAMCast - An Emergency Medicine Podcast: https://foamcast.org
+* RAGE podcast: https://litfl.com/podcasts/rage-podcast/
 * Abhören: https://www.abhoeren-podcast.de
 * PsychCast: https://psychcast.de
-* Young Urban Anesthesiologists (YUAN) - https://ains.umg.eu/studium-lehre/podcast/
+* The Elective Rotation - A Critical Care Hospital Pharmacy Podcast: https://podcasts.apple.com/us/podcast/the-elective-rotation-a-critical-care-hospital/id1022700383
 
 #### Notfallmedizin
 
