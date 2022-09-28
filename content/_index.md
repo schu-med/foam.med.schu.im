@@ -39,6 +39,10 @@ layout = "indexpage"
 * ToxDocs - Alles rund um Intoxikationen: http://toxdocs.de
 * MDCalc "is a site for medical professionals, to help us do calculations, process algorithms and scores, and assess risk": https://www.mdcalc.com
 
+#### Anästhesie
+
+* https://www.capnography.com
+
 #### Sonografie
 
 * Core Ultrasound - 5 Minute Sono: https://www.coreultrasound.com/5ms/
