@@ -29,7 +29,7 @@ layout = "indexpage"
 
 #### Notfallmedizin
 
-* Medizinische Handlungsanweisungen der Berliner Notfallrettung - https://www.berliner-feuerwehr.de/fileadmin/bfw/dokumente/Publikationen/Rettungsdienst/Medizinische_Handlungsanweisungen_Berliner_Notfallrettung__06_2021.pdf
+* Medizinische Handlungsanweisungen der Berliner Notfallrettung - 2021: https://www.berliner-feuerwehr.de/fileadmin/bfw/dokumente/Publikationen/Rettungsdienst/Medizinische_Handlungsanweisungen_Berliner_Notfallrettung__06_2021.pdf
 * Deutscher Berufsverband Rettungsdienst - Musteralgorithmen 2022: https://www.dbrd.de/images/algorithmen/DBRGAlgo0522_Web1.pdf
 
 #### Klinik
