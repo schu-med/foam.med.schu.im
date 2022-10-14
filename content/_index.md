@@ -67,6 +67,7 @@ Medizinische Informatik:
 #### Kardiologie
 
 * Fokus-EKG - EKG-Wissen für die Praxis: https://www.fokus-ekg.de
+* Grundkurs EKG: http://www.grundkurs-ekg.de
 
 #### Radiologie
 
