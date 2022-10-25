@@ -74,6 +74,10 @@ Medizinische Informatik:
 * Radiopaedia - https://radiopaedia.org
 * Radiology Assistant - https://radiologyassistant.nl
 
+#### Onkologie
+
+* Onkopedia: https://onkopedia.com
+
 #### Klinische Chemie
 
 * Labor & Diagnose 2020: https://www.labor-und-diagnose-2020.de
