@@ -16,6 +16,7 @@ layout = "indexpage"
 * Life in the Fastlane (LITFL): https://litfl.com
 * St. Emlyn's: https://www.stemlynsblog.org
 * The Bottom Line: https://www.thebottomline.org.uk
+* First10EM: https://first10em.com
 
 #### Podcasts
 
