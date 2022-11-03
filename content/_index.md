@@ -70,6 +70,7 @@ Medizinische Informatik:
 
 * Fokus-EKG - EKG-Wissen für die Praxis: https://www.fokus-ekg.de
 * Grundkurs EKG: http://www.grundkurs-ekg.de
+* "EKG - From Beginner To Boss": https://www.youtube.com/playlist?list=PL1MfoZ0lNSnlpLh-l2UWyG7X5nWuj1o6W
 
 #### Radiologie
 
@@ -83,6 +84,10 @@ Medizinische Informatik:
 #### Klinische Chemie
 
 * Labor & Diagnose 2020: https://www.labor-und-diagnose-2020.de
+
+#### Infektiologie:
+
+* "HIV Buch": https://www.hivbuch.de
 
 #### Misc
 
