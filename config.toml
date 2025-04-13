@@ -4,6 +4,8 @@ title = "foam.med.schu.im"
 
 theme = "about-blank"
 
+enableGitInfo = true
+
 [params]
 author = "Michael Schubert"
 disableMenu = true
